@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd"
+>
+
+<channel>
+	<title>Mister Baby Podcast</title>
+	<!-- TODO: FILL IN RSS FEED LINK -->
+	<atom:link href="" rel="self" type="application/rss+xml" />
+	<!-- TODO: FILL IN SITE ADDRESS -->
+	<link></link>
+	<description>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives. From New York to Shanghai and every else in-between, join us for ex-pat and local tales from everywhere in the world.</description>
+	<language>en-US</language>
+
+	<itunes:summary>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives. From New York to Shanghai and everywhere else in-between, join us for ex-pat and local tales from everywhere in the world.</itunes:summary>
+	<itunes:author>Mister Baby Podcast</itunes:author>
+	<!-- TODO: ADD ITUNES ICON -->
+	<itunes:image href="" />
+	<itunes:subtitle>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives.</itunes:subtitle>
+	<!-- TODO: ADD IMAGE INFO - IMAGE URL and WEBSITE LINK -->
+	<image>
+		<title>Mister Baby Podcast</title>
+		<url></url>
+		<link></link>
+	</image>
+
+	<item>
+		<title>Ep #1: Hamburger Stabbing w/ Tim Neesham</title>
+		<!-- ADD WEBPAGE LINK -->
+		<link></link>
+		<pubDate>Wed, 12 Apr 2017 08:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thecrabfeast.com/?p=3656</guid>
+		<description>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</description>
+		<!-- ADD FILE LINK & LENGTH? -->
+		<enclosure url="episodes/001_final.mp3" length="" type="audio/mpeg" />
+		<itunes:subtitle>From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</itunes:subtitle>
+		<itunes:summary>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</itunes:summary>
+		<itunes:author>Mister Baby Podcast</itunes:author>
+		<!-- ADD FILE LENGTH -->
+		<itunes:duration></itunes:duration>
+	</item>
+
+</channel>
+
+</rss>
+
