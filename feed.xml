@@ -33,18 +33,17 @@
 
 	<item>
 		<title>Ep #1: Hamburger Stabbing w/ Tim Neesham</title>
-		<!-- ADD WEBPAGE LINK -->
-		<link></link>
+		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
 		<pubDate>Wed, 12 Apr 2017 08:00:00 +0000</pubDate>
 		<guid isPermaLink="false">http://www.thecrabfeast.com/?p=3656</guid>
 		<description>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</description>
 		<!-- ADD FILE LINK & LENGTH? -->
-		<enclosure url="episodes/001_final.mp3" length="" type="audio/mpeg" />
+		<enclosure url="episodes/001_final.mp3" length="4620000" type="audio/mpeg" />
 		<itunes:subtitle>From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</itunes:subtitle>
 		<itunes:summary>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</itunes:summary>
 		<itunes:author>Mister Baby Podcast</itunes:author>
 		<!-- ADD FILE LENGTH -->
-		<itunes:duration></itunes:duration>
+		<itunes:duration>1:17:00</itunes:duration>
 	</item>
 
 </channel>
