@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd"
+>
+
+<channel>
+	<title>Mister Baby Podcast</title>
+	<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
+	<description>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives. From New York to Shanghai and every else in-between, join us for ex-pat and local tales from everywhere in the world.</description>
+	<language>en-US</language>
+
+	<itunes:summary>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives. From New York to Shanghai and everywhere else in-between, join us for ex-pat and local tales from everywhere in the world.</itunes:summary>
+	<itunes:author>Mister Baby Podcast</itunes:author>
+	<itunes:image href="https://sean6bucks.github.io/MisterBabyPodcast/images/MBartwork_full.jpg" />
+	<itunes:subtitle>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives.</itunes:subtitle>
+	<image>
+		<title>Mister Baby Podcast</title>
+		<url>https://sean6bucks.github.io/MisterBabyPodcast/images/MBartwork_full.jpg</url>
+		<link>https://sean6bucks.github.io/MisterBabyPodcast/</link>
+	</image>
+
+	<item>
+		<title>Ep #0: The Roadtrip w/ Beryl and Sean</title>
+		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
+		<pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+		<description>For Episode 0, Beryl and I sat down and just chatted with ourselves as sort of an intro to the podcast. We ( mostly B ) ended up telling the story of our road trip across America, and how it tested our friendship, but inevitably bringing us much closer.</description>
+		<enclosure url="https://sean6bucks.github.io/MisterBabyPodcast/episodes/000_intro_lo.mp3" type="audio/mpeg" />
+		<itunes:subtitle>For Episode 0, Beryl and I sat down and just chatted with ourselves as sort of an intro to the podcast. We ( mostly B ) ended up telling the story of our road trip across America, and how it tested our friendship, but inevitably bringing us much closer.</itunes:subtitle>
+		<itunes:summary>For Episode 0, Beryl and I sat down and just chatted with ourselves as sort of an intro to the podcast. We ( mostly B ) ended up telling the story of our road trip across America, and how it tested our friendship, but inevitably bringing us much closer.</itunes:summary>
+		<itunes:author>Mister Baby Podcast</itunes:author>
+		<itunes:duration>57:49</itunes:duration>
+	</item>
+
+	<item>
+		<title>Ep #1: Hamburger Stabbing w/ Tim Neesham</title>
+		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
+		<pubDate>Wed, 12 Apr 2017 08:00:00 +0000</pubDate>
+		<description>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</description>
+		<enclosure url="https://sean6bucks.github.io/MisterBabyPodcast/episodes/001_Tim_lo.mp3" length="4620000" type="audio/mpeg" />
+		<itunes:subtitle>From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</itunes:subtitle>
+		<itunes:summary>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</itunes:summary>
+		<itunes:author>Mister Baby Podcast</itunes:author>
+		<itunes:duration>1:17:00</itunes:duration>
+	</item>
+
+</channel>
+
+</rss>
+
