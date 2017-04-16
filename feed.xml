@@ -20,6 +20,12 @@
 	<itunes:author>Mister Baby Podcast</itunes:author>
 	<itunes:image href="https://sean6bucks.github.io/MisterBabyPodcast/images/MBartwork_full.jpg" />
 	<itunes:subtitle>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives.</itunes:subtitle>
+	<itunes:category text="Comedy" />
+	<itunes:category text="Storytelling" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals" />
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>
 	<image>
 		<title>Mister Baby Podcast</title>
 		<url>https://sean6bucks.github.io/MisterBabyPodcast/images/MBartwork_full.jpg</url>
@@ -27,27 +33,27 @@
 	</image>
 
 	<item>
-		<title>Ep #0: The Roadtrip w/ Beryl and Sean</title>
-		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
-		<pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-		<description>For Episode 0, Beryl and I sat down and just chatted with ourselves as sort of an intro to the podcast. We ( mostly B ) ended up telling the story of our road trip across America, and how it tested our friendship, but inevitably bringing us much closer.</description>
-		<enclosure url="https://sean6bucks.github.io/MisterBabyPodcast/episodes/000_intro_lo.mp3" type="audio/mpeg" />
-		<itunes:subtitle>For Episode 0, Beryl and I sat down and just chatted with ourselves as sort of an intro to the podcast. We ( mostly B ) ended up telling the story of our road trip across America, and how it tested our friendship, but inevitably bringing us much closer.</itunes:subtitle>
-		<itunes:summary>For Episode 0, Beryl and I sat down and just chatted with ourselves as sort of an intro to the podcast. We ( mostly B ) ended up telling the story of our road trip across America, and how it tested our friendship, but inevitably bringing us much closer.</itunes:summary>
-		<itunes:author>Mister Baby Podcast</itunes:author>
-		<itunes:duration>57:49</itunes:duration>
-	</item>
-
-	<item>
 		<title>Ep #1: Hamburger Stabbing w/ Tim Neesham</title>
 		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
 		<pubDate>Wed, 12 Apr 2017 08:00:00 +0000</pubDate>
 		<description>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</description>
-		<enclosure url="https://sean6bucks.github.io/MisterBabyPodcast/episodes/001_Tim_lo.mp3" length="4620000" type="audio/mpeg" />
+		<enclosure url="https://dl.dropbox.com/s/gipvtwucts8yyz4/001_Tim_lo.mp3" length="4620000" type="audio/mpeg" />
 		<itunes:subtitle>From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</itunes:subtitle>
 		<itunes:summary>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</itunes:summary>
 		<itunes:author>Mister Baby Podcast</itunes:author>
 		<itunes:duration>1:17:00</itunes:duration>
+	</item>
+	
+	<item>
+		<title>Ep #0: The Roadtrip w/ Beryl and Sean</title>
+		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
+		<pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+		<description>For Episode 0, Beryl and I sat down and just chatted with ourselves as sort of an intro to the podcast. We ( mostly B ) ended up telling the story of our road trip across America, and how it tested our friendship, but inevitably bringing us much closer.</description>
+		<enclosure url="https://dl.dropboxusercontent.com/s/0ju2o1diutjw015/000_intro_lo.mp3" type="audio/mpeg" />
+		<itunes:subtitle>For Episode 0, Beryl and I sat down and just chatted with ourselves as sort of an intro to the podcast. We ( mostly B ) ended up telling the story of our road trip across America, and how it tested our friendship, but inevitably bringing us much closer.</itunes:subtitle>
+		<itunes:summary>For Episode 0, Beryl and I sat down and just chatted with ourselves as sort of an intro to the podcast. We ( mostly B ) ended up telling the story of our road trip across America, and how it tested our friendship, but inevitably bringing us much closer.</itunes:summary>
+		<itunes:author>Mister Baby Podcast</itunes:author>
+		<itunes:duration>57:49</itunes:duration>
 	</item>
 
 </channel>
