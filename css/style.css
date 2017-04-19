@@ -120,20 +120,32 @@ p {
 .episode-player {
 	width: 100%;
 }
+.episode-link {
+	display: none;
+}
 
 @media (max-width: 500px) {
 
 	/* TODO: ADD HEADER BLOCK STYLING*/
 
 	/* TODO: ADD TEXT SIZE STYLING*/
-	
+	h1 {
+		font-size: 28px;
+	}
+
+	h2 {
+		font-size: 14px;
+		margin-bottom: 10px;
+		font-weight: 300;
+	}
+
 	#episodes-block {
 		padding: 10px 20px;
 		margin-bottom: 20px;
 	}
 
 	.episode {
-		padding: 10px 0;
+		padding: 20px 0;
 	}
 
 	.episode-image {
@@ -145,6 +157,22 @@ p {
 	.episode-content {
 		height: 100px;
 		width: calc( 100% - 115px );
+	}
+
+	.episode-player {
+		display: none;
+	}
+	.episode-link {
+		display: inline-block;
+		padding: 5px 10px;
+		border-radius: 3px;
+		border: 1px solid #B8C0CC;
+		text-decoration: none;
+		font-size: 14px;
+	}
+	.episode-link:hover, .episode-link:active, .episode-link:focus {
+		background: #B8C0CC;
+		color: #F3F3F3;
 	}
 
 	.episode-content p {
