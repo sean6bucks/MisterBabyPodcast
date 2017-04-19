@@ -16,7 +16,7 @@
 	<description>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives. From New York to Shanghai and every else in-between, join us for ex-pat and local tales from everywhere in the world.</description>
 	<language>en-US</language>
 
-	<itunes:summary>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives. From New York to Shanghai and everywhere else in-between, join us for ex-pat and local tales from everywhere in the world.</itunes:summary>
+	<itunes:summary>Sean and Beryl, a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives. From New York to Shanghai and everywhere else in-between, join us for ex-pat and local tales from everywhere in the world.</itunes:summary>
 	<itunes:author>Mister Baby Podcast</itunes:author>
 	<itunes:image href="https://sean6bucks.github.io/MisterBabyPodcast/images/MBartwork_full.jpg" />
 	<itunes:subtitle>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives.</itunes:subtitle>
@@ -33,6 +33,19 @@
 	</image>
 
 	<item>
+		<title>Ep #2: Start-ups & Animal Dung w/ Alex Duncan</title>
+		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
+		<pubDate>Wed, 19 Apr 2017 08:00:00 +0000</pubDate>
+		<description>This week Beryl and I sat down with Alex Duncan our friend and ex-boss to chat about his many business ventures while he's been in Shanghai. We learned about how he took his degree in zoology and turned that into start-ups in the fashion world, the art world, the fly fishing world, and now the tech world.</description>
+		<enclosure url="https://dl.dropboxusercontent.com/s/s9eco5nmo5kvt4b/002_alex.mp3" type="audio/mpeg" />
+		<itunes:subtitle>From a teenage computer nerd, to a degree in Zoology, Alex Duncan tells us how he leveraged his talents and opportunities into several business ventures that have truely run the start-up landscape gamut here in China.</itunes:subtitle>
+		<itunes:summary>This week Beryl and I sat down with Alex Duncan our friend and ex-boss to chat about his many business ventures while he's been in Shanghai. We learned about how he took his degree in zoology and turned that into start-ups in the fashion world, the art world, the fly fishing world, and now the tech world.</itunes:summary>
+		<itunes:author>Mister Baby Podcast</itunes:author>
+		<itunes:duration>1:08:03</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+
+	<item>
 		<title>Ep #1: Hamburger Stabbing w/ Tim Neesham</title>
 		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
 		<pubDate>Wed, 12 Apr 2017 08:00:00 +0000</pubDate>
@@ -42,6 +55,7 @@
 		<itunes:summary>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</itunes:summary>
 		<itunes:author>Mister Baby Podcast</itunes:author>
 		<itunes:duration>1:17:00</itunes:duration>
+		<itunes:explicit>yes</itunes:explicit>
 	</item>
 	
 	<item>
