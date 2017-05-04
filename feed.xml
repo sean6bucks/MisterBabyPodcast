@@ -1,73 +1,78 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd"
->
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
 
 <channel>
 	<title>Mister Baby Podcast</title>
 	<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
-	<description>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives. From New York to Shanghai and every else in-between, join us for ex-pat and local tales from everywhere in the world.</description>
+	<!-- ALWAYS UPDATE -->
+	<lastBuildDate>Thu, 04 May 2017 08:00:00 +0000</lastBuildDate>
+	<!-- == -->
 	<language>en-US</language>
-
-	<itunes:summary>Sean and Beryl, a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives. From New York to Shanghai and everywhere else in-between, join us for ex-pat and local tales from everywhere in the world.</itunes:summary>
 	<itunes:author>Mister Baby Podcast</itunes:author>
-	<itunes:image href="https://sean6bucks.github.io/MisterBabyPodcast/images/MBartwork_full.jpg" />
 	<itunes:subtitle>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives.</itunes:subtitle>
-	<itunes:category text="Comedy" />
-	<itunes:category text="Storytelling" />
-	<itunes:category text="Society &amp; Culture">
-		<itunes:category text="Personal Journals" />
-	</itunes:category>
-	<itunes:explicit>no</itunes:explicit>
+	<itunes:summary>Sean and Beryl, a.k.a. Mister Baby, invite guests to reminisce about great times in their lives. From New York to Shanghai and everywhere else in-between, join us for ex-pat and local tales from everywhere in the world.</itunes:summary>
+	<description>Sean and Beryl a.k.a. Mister Baby, team up with guests and invite you to reminisce about great times in their lives. From New York to Shanghai and every else in-between, join us for ex-pat and local tales from everywhere in the world.</description>
+	<itunes:explicit>yes</itunes:explicit>
+	<itunes:keywords>Mister,Baby,Misterbaby,Sean,Kiefer,Beryl,Chung,Shanghai,story,storytelling</itunes:keywords>
+	<itunes:owner>
+		<itunes:name>Sean Kiefer</itunes:name>
+		<itunes:email>sean6bucks@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:category text="Comedy"/>
+	<itunes:image href="https://sean6bucks.github.io/MisterBabyPodcast/images/MBartwork_full.jpg" />
 	<image>
 		<title>Mister Baby Podcast</title>
 		<url>https://sean6bucks.github.io/MisterBabyPodcast/images/MBartwork_full.jpg</url>
 		<link>https://sean6bucks.github.io/MisterBabyPodcast/</link>
 	</image>
-	
+
 	<item>
-		<title>Ep #3: HoneyBadgers w/ Annie Wong, Jenny Wu, & Clarissa Dourmashkin-Cagol</title>
-		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
+		<title>Ep #3: HoneyBadgers w/ Annie Wong, Jenny Wu, &amp; Clarissa Dourmashkin-Cagol</title>
+		<dc:creator>Mister Baby Podcasts</dc:creator>
 		<pubDate>Wed, 3 May 2017 08:00:00 +0000</pubDate>
+		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
 		<description>This week Beryl and I sat down a group of ladies from around the world, who have all ended up here in Shanghai at one time or another. Annie, Jenny, and Clarissa share their stories from living and traveling abroad, the wonderlust they feel while working around the globe, and how their adventures have shapes the connections they still have today. Oh, and of course MOOOSH!</description>
-		<enclosure url="https://dl.dropboxusercontent.com/s/rxee51e3qagbv09/003_honeybadgers.mp3" type="audio/mpeg" />
+		<content:encoded><![CDATA[ <p>This week Beryl and I sat down a group of ladies from around the world, who have all ended up here in Shanghai at one time or another. Annie, Jenny, and Clarissa share their stories from living and traveling abroad, the wonderlust they feel while working around the globe, and how their adventures have shapes the connections they still have today. Oh, and of course MOOOSH!</p>]]></content:encoded>
+		<itunes:author>Mister Baby Podcast</itunes:author>
 		<itunes:subtitle>Hong Kong, Paris, New York, and Shanghai, the honeybadger ladies have really traveled the globe, and are here to share their stories.</itunes:subtitle>
-		<itunes:summary>This week Beryl and I sat down a group of ladies from around the world, who have all ended up here in Shanghai at one time or another. Annie, Jenny, and Clarissa share their stories from living and traveling abroad, the wonderlust they feel while working around the globe, and how their adventures have shapes the connections they still have today. Oh, and of course MOOOSH!</itunes:author>
+		<itunes:summary>This week Beryl and I sat down a group of ladies from around the world, who have all ended up here in Shanghai at one time or another. Annie, Jenny, and Clarissa share their stories from living and traveling abroad, the wonderlust they feel while working around the globe, and how their adventures have shapes the connections they still have today. Oh, and of course MOOOSH!</itunes:summary>
+		<itunes:keywords>Mister,Baby,Misterbaby,storytelling,shanghai,paris,mooosh,honeybadger</itunes:keywords>
 		<itunes:duration>1:09:39</itunes:duration>
 		<itunes:explicit>no</itunes:explicit>
+		<enclosure url="https://dl.dropboxusercontent.com/s/rxee51e3qagbv09/003_honeybadgers.mp3" length="4179000" type="audio/mpeg" />
 	</item>
 
 	<item>
-		<title>Ep #2: Start-ups & Animal Dung w/ Alex Duncan</title>
-		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
+		<title>Ep #2: Start-ups &amp; Animal Dung w/ Alex Duncan</title>
+		<dc:creator>Mister Baby Podcasts</dc:creator>
 		<pubDate>Wed, 19 Apr 2017 08:00:00 +0000</pubDate>
+		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
 		<description>This week Beryl and I sat down with Alex Duncan our friend and ex-boss to chat about his many business ventures while he's been in Shanghai. We learned about how he took his degree in zoology and turned that into start-ups in the fashion world, the art world, the fly fishing world, and now the tech world.</description>
-		<enclosure url="https://dl.dropboxusercontent.com/s/s9eco5nmo5kvt4b/002_alex.mp3" type="audio/mpeg" />
-		<itunes:subtitle>From a teenage computer nerd, to a degree in Zoology, Alex Duncan tells us how he leveraged his talents and opportunities into several business ventures that have truely run the start-up landscape gamut here in China.</itunes:subtitle>
-		<itunes:summary>This week Beryl and I sat down with Alex Duncan our friend and ex-boss to chat about his many business ventures while he's been in Shanghai. We learned about how he took his degree in zoology and turned that into start-ups in the fashion world, the art world, the fly fishing world, and now the tech world.</itunes:summary>
+		<content:encoded><![CDATA[ <p>This week Beryl and I sat down with Alex Duncan our friend and ex-boss to chat about his many business ventures while he's been in Shanghai. We learned about how he took his degree in zoology and turned that into start-ups in the fashion world, the art world, the fly fishing world, and now the tech world.</p>]]></content:encoded>
 		<itunes:author>Mister Baby Podcast</itunes:author>
+		<itunes:subtitle>From a teenage computer nerd, to a degree in Zoology, Alex Duncan tells us how he leveraged his talents and opportunities into several business ventures that have truely run the start-up landscape gamut here in China.</itunes:subtitle>s
+		<itunes:summary>This week Beryl and I sat down with Alex Duncan our friend and ex-boss to chat about his many business ventures while he's been in Shanghai. We learned about how he took his degree in zoology and turned that into start-ups in the fashion world, the art world, the fly fishing world, and now the tech world.</itunes:summary>
+		<itunes:keywords>Mister,Baby,Misterbaby,Alex,Duncan,zoology,Entrepreneur,start-ups,storytelling,shanghai</itunes:keywords>
 		<itunes:duration>1:08:03</itunes:duration>
 		<itunes:explicit>no</itunes:explicit>
+		<enclosure url="https://dl.dropboxusercontent.com/s/s9eco5nmo5kvt4b/002_alex.mp3" length="4083000" type="audio/mpeg" />
 	</item>
 
 	<item>
 		<title>Ep #1: Hamburger Stabbing w/ Tim Neesham</title>
-		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
+		<dc:creator>Mister Baby Podcasts</dc:creator>
 		<pubDate>Wed, 12 Apr 2017 08:00:00 +0000</pubDate>
-		<description>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</description>
-		<enclosure url="https://dl.dropboxusercontent.com/s/gipvtwucts8yyz4/001_Tim_lo.mp3" length="4620000" type="audio/mpeg" />
+		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
+		<description>This week we sat down with our friend Tim Neesham and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</description>
+		<content:encoded><![CDATA[ <p>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</p>]]></content:encoded>
+		<itunes:author>Mister Baby Podcast</itunes:author>
 		<itunes:subtitle>From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</itunes:subtitle>
 		<itunes:summary>This week we sat down with our friend Tim Neeshan and heard all kinds of amazing stories from his travels around the world. From trouble with street kids in South America, to hillybillies of the Australian Outback, Tim has certainly seen some things, and that was all before he landed here in Shanghai.</itunes:summary>
-		<itunes:author>Mister Baby Podcast</itunes:author>
+		<itunes:keywords>Mister,Baby,Misterbaby,Tim,Neesham,stabbing,hamburger,drinking,storytelling,shanghai</itunes:keywords>
 		<itunes:duration>1:17:00</itunes:duration>
 		<itunes:explicit>yes</itunes:explicit>
+		<enclosure url="https://dl.dropboxusercontent.com/s/gipvtwucts8yyz4/001_Tim_lo.mp3" length="4620000" type="audio/mpeg"/>
 	</item>
 	
 	<item>
