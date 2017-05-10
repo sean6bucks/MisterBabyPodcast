@@ -24,8 +24,24 @@
 	<image>
 		<title>Mister Baby Podcast</title>
 		<url>https://sean6bucks.github.io/MisterBabyPodcast/images/MBartwork_full.jpg</url>
-		<link>https://sean6bucks.github.io/MisterBabyPodcast/</link>
+		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
 	</image>
+
+	<item>
+		<title>Ep #4: Oofty Goofty w/ Tom Weishan</title>
+		<dc:creator>Mister Baby Podcasts</dc:creator>
+		<pubDate>Wed, 10 May 2017 08:00:00 +0000</pubDate>
+		<link>https://sean6bucks.github.io/MisterBabyPodcast</link>
+		<description>This week we sat down with Tom Weishan to talk about his short lived career at Second City and the DIY sketch/improv scene of Chicago, moments of Hazing students gone wrong, and how he came to Shanghai to perform Josh Groban songs for wealthy Chinese parents in order to close some sales.</description>
+		<content:encoded><![CDATA[ <p>This week we sat down with Tom Weishan to talk about his short lived career at Second City and the DIY sketch/improv scene of Chicago, moments of Hazing students gone wrong, and how he came to Shanghai to perform Josh Groban songs for wealthy Chinese parents in order to close some sales.</p>]]></content:encoded>
+		<itunes:author>Mister Baby Podcast</itunes:author>
+		<itunes:subtitle>From a failed Haze Master in university, to Second City in Chicago, and finally impromptu talent shows in Shanghai, our guest Tom Weishan is always ready to accept any challange thrown at him.</itunes:subtitle>
+		<itunes:summary>This week we sat down with Tom Weishan to talk about his short lived career at Second City and the DIY sketch/improv scene of Chicago, moments of Hazing students gone wrong, and how he came to Shanghai to perform Josh Groban songs for wealthy Chinese parents in order to close some sales.</itunes:summary>
+		<itunes:keywords>Mister,Baby,Misterbaby,storytelling,second,city,tom,weishan,improv,sketch,chicago,shanghai</itunes:keywords>
+		<itunes:duration>1:09:39</itunes:duration>
+		<itunes:explicit>yes</itunes:explicit>
+		<enclosure url="https://dl.dropboxusercontent.com/s/0dpa0ji5lmvbvk2/004_Tom.mp3" length="6519000" type="audio/mpeg" />
+	</item>
 
 	<item>
 		<title>Ep #3: HoneyBadgers w/ Annie Wong, Jenny Wu, &amp; Clarissa Dourmashkin-Cagol</title>
