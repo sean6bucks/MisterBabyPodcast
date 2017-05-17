@@ -89,10 +89,11 @@ p {
 	background-color: rgba( 255,255,255,0.5);
 }
 
-.episode {
-	padding: 20px 0;
+.episode:not(:first-child) {
+	padding-top: 20px;
 }
 .episode:not(:last-child) {
+	padding-bottom: 20px;
 	border-bottom: 1px solid #B8C0CC;
 }
 
@@ -113,7 +114,6 @@ p {
 }
 
 .episode-content {
-	height: 250px;
 	width: calc( 100% - 280px );
 }
 
